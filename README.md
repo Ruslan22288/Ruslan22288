@@ -65,12 +65,10 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# 🎨 **STYLE BOARD**
-### (highlighted with its own section)
+### 🎨 Styles
 <details>
   <summary><strong>Open Style Board</strong></summary>
 
-### Styling:
 - HTML5  
 - CSS
 - Bootstrap  
@@ -79,14 +77,14 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# ⚡ Random Dev Quote
+# 💛 Random Dev Quote
 
 > “Just because you’ve implemented something doesn’t mean you understand it.”  
 > — Brian Cantwell Smith
 
 ---
 
-# 🔥 GitHub Stats & Streak
+# 🖤 GitHub Stats & Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ruslan22288&theme=dark&hide_border=true)
 
 
