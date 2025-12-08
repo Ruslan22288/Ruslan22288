@@ -64,25 +64,6 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 ## 🚀 My Biggest Project
 **Project name** — short description.  
 - Tech: Django / PostgreSQL / Docker  
-- Live: `https://your-site.example` (if deployed)  
+- Live: not detected🤭
 - Repo: `https://github.com/Ruslan22288/your-project`
 
----
-
-## ✨ Nice-to-have README tricks (already added above)
-- Horizontal badges for quick visual skills scan (floor)  
-- Vertical quote for creative visual separation (wall)  
-- GitHub stats + top langs + streaks for activity signals  
-- Links to live demos and repos to show work instantly
-
----
-
-## How to customize
-1. Replace `Ruslan22288` in the stats URLs with your GitHub username.  
-2. Change or add badges in the **Tech Stack** line to reflect your real skills. Use `https://shields.io` to get new badges.  
-3. Swap the quote text if you want another phrase — to keep the "wall" effect, put each word on a new line inside the triple backticks.
-
-Enjoy — paste this into your `README.md` and commit. If you want, I can:
-- Translate the vertical quote to Ukrainian while keeping the English copy,
-- Replace the vertical quote with an SVG (more polished) — I can provide SVG code you can add,
-- Or make a responsive two-column layout (desktop vs mobile friendly).
