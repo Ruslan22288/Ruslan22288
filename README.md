@@ -75,7 +75,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 # 🖤 Random Dev 
 
-![Quote](https://quotes-github-readme.vercel.app/api?theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
 
