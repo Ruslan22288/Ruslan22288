@@ -74,8 +74,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 # Random Dev Quote
 
-> “Just because you’ve implemented something doesn’t mean you understand it.”  
-> — Brian Cantwell Smith
+![Quote](https://quotes-github-readme.
 
 ---
 
