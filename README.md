@@ -89,4 +89,4 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 # 🔥 GitHub Stats & Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ruslan22288&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruslan22288&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslan22288&layout=compact&theme=dark&hide_border=true)
+
