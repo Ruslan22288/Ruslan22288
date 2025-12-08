@@ -33,7 +33,6 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 - API development  
 - Async programming  
 - Automation scripts  
-- Virtual environments  
 
 </details>
 
@@ -43,11 +42,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 <details>
   <summary><strong>JavaScript</strong></summary>
 
-### Core:
-- None 
-
-### Frameworks:
-- None
+### None
 
 </details>
 
