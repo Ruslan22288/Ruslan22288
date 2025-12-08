@@ -1,23 +1,20 @@
-# Hi, I'm Ruslan! 👋
+#  Hi, I'm Ruslan! 👋
 
-Hi! My name is **Ruslan**.  
+Hi! My name is **Ruslan**.  
 I'm a 15-year-old web developer who loves building mini-projects and working with Python and web technologies.
 
-**Currently working on:** personal website, Django / FastAPI / Flask projects  
-**Looking for:** collaborations on Python open-source projects  
-**Interested in:** advanced web-development methods & performance optimization  
-**Ask me about:** Python, Django, FastAPI, Flask, web development, project ideas  
-**Fun fact:** I enjoy coding challenges and creating small projects  
-**English level:** Normal
+ **Currently working on:** personal website, Django / FastAPI / Flask projects  
+ **Looking for:** collaborations on Python open-source projects  
+ **Interested in:** advanced web-development methods & performance optimization  
+ **Ask me about:** Python, Django, FastAPI, Flask, web development, project ideas  
+ **Fun fact:** I enjoy coding challenges and creating small projects  
+ **English level:** Normal
 
 ---
 
 # 🖤 Connect with me
-
-<p align="center">
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruslan071301)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruslan071301)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/russlik_k)
-</p>
 
 ---
 
@@ -27,17 +24,20 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 <details>
   <summary><strong>Python</strong></summary>
 
-**Frameworks:**  
+### Frameworks:
 - Django  
 - FastAPI  
 - Flask  
 
-**Other:**  
+### Other:
 - API development  
 - Async programming  
 - Automation scripts  
 
 </details>
+
+---
+
 
 ### JavaScript
 <details>
@@ -47,38 +47,37 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 </details>
 
+---
+
 ### Databases
 <details>
   <summary><strong>Databases</strong></summary>
 
 - PostgreSQL  
 - SQLite  
-- Django ORM  
+- Django ORM   
 
 </details>
+
+---
 
 ### Styles
 <details>
   <summary><strong>Style</strong></summary>
 
 - HTML5  
-- CSS  
+- CSS
 - Bootstrap  
 
 </details>
 
 ---
 
-# 🖤 Random Dev
+# 🖤 Random Dev 
 
-<p align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?theme=tokyonight)
-</p>
 
 ---
 
 # 🖤 GitHub Stats & Streak
-
-<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ruslan22288&theme=dark&hide_border=true)
-</p>
