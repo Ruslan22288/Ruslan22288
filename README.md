@@ -1,26 +1,26 @@
-# 💫 Hi, I'm Ruslan! 👋
+#  Hi, I'm Ruslan! 👋
 
 Hi! My name is **Ruslan**.  
 I'm a 15-year-old web developer who loves building mini-projects and working with Python and web technologies.
 
-🔭 **Currently working on:** personal website, Django / FastAPI / Flask projects  
-👯 **Looking for:** collaborations on Python open-source projects  
-🤝 **Interested in:** advanced web-development methods & performance optimization  
-💬 **Ask me about:** Python, Django, FastAPI, Flask, web development, project ideas  
-⚡ **Fun fact:** I enjoy coding challenges and creating small projects  
-🗣 **English level:** Beginner
+ **Currently working on:** personal website, Django / FastAPI / Flask projects  
+ **Looking for:** collaborations on Python open-source projects  
+ **Interested in:** advanced web-development methods & performance optimization  
+ **Ask me about:** Python, Django, FastAPI, Flask, web development, project ideas  
+ **Fun fact:** I enjoy coding challenges and creating small projects  
+ **English level:** Normal
 
 ---
 
-## 🌐 Connect with me
+## 🖤 Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruslan071301)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/russlik_k)
 
 ---
 
-# 🧩 My Skills (click to expand)
+# 🖤 My Skills (click to expand)
 
-### 🐍 Python
+### Python
 <details>
   <summary><strong>Python</strong></summary>
 
@@ -39,7 +39,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-### ⚙️ JavaScript
+### JavaScript
 <details>
   <summary><strong>JavaScript</strong></summary>
 
@@ -53,7 +53,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-### 🛢 Databases
+### Databases
 <details>
   <summary><strong>Databases</strong></summary>
 
@@ -65,7 +65,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-### 🎨 Styles
+### Styles
 <details>
   <summary><strong>Open Style Board</strong></summary>
 
@@ -77,7 +77,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# 💛 Random Dev Quote
+# Random Dev Quote
 
 > “Just because you’ve implemented something doesn’t mean you understand it.”  
 > — Brian Cantwell Smith
