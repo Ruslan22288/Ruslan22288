@@ -12,7 +12,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-## 🖤 Connect with me
+# 🖤 Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruslan071301)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/russlik_k)
 
