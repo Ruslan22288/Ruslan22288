@@ -42,7 +42,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 <details>
   <summary><strong>JavaScript</strong></summary>
 
-### None
+- None
 
 </details>
 
