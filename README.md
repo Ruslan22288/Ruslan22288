@@ -1,3 +1,4 @@
+
 # 💫 Hi, I'm Ruslan! 👋
 
 Hi! My name is **Ruslan**.  
@@ -85,43 +86,3 @@ Enjoy — paste this into your `README.md` and commit. If you want, I can:
 - Translate the vertical quote to Ukrainian while keeping the English copy,
 - Replace the vertical quote with an SVG (more polished) — I can provide SVG code you can add,
 - Or make a responsive two-column layout (desktop vs mobile friendly).
-
-
----
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-🛠 **Django Admin** — для керування проектами  
-
----
-
-## 🚀 My Biggest Project / Мій найграндіозніший проект
-**Project Name / Назва:** LEGO-WEB-WIKI-SHOP  
-**Description / Опис:** Веб-сайт для перегляду та покупки LEGO-наборів з інформаційною базою та системою управління через Django Admin.  
-**Link / Посилання:** [GitHub Repository](https://github.com/Ruslan22288/LEGO-WEB-WIKI-SHOP)  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslan22288&show_icons=true&theme=dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslan22288&layout=compact&theme=dark)
-
----
-
-## ⚡ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruslan22288&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Ruslan22288&icon=5&color=9)](https://visitcount.itsvg.in)
