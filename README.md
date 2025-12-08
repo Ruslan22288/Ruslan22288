@@ -18,7 +18,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# 🧩 My Skills (click to expand)
+ 🧩 My Skills (click to expand)
 
 ### 🐍 Python
 <details>
