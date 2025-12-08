@@ -18,7 +18,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# 🖤 My Skills (click to expand)
+# 🖤 My Skills
 
 ### Python
 <details>
@@ -72,10 +72,9 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# Random Dev Quote
+# 🖤 Random Dev 
 
-![Quote](https://quotes-github-readme.
-
+![Quote](https://quotes-github-readme.vercel.app/api?)
 ---
 
 # 🖤 GitHub Stats & Streak
