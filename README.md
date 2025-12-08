@@ -67,7 +67,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ### Styles
 <details>
-  <summary><strong>Open Style Board</strong></summary>
+  <summary><strong>Style</strong></summary>
 
 - HTML5  
 - CSS
