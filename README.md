@@ -88,3 +88,59 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ruslan22288&theme=dark&hide_border=true)
 
 
+### Styles
+<details>
+  <summary><strong>Open Style Board</strong></summary>
+
+<!-- RANDOM + ADAPTIVE STYLE BOARD -->
+<div style="
+  padding: 15px; 
+  border-radius: 12px; 
+  background: linear-gradient(135deg, #0d0d0d, #1a1a1a, #000000);
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  box-shadow: 0 0 15px #000000aa;
+">
+
+<!-- AUTO-BRIGHTNESS BASED ON LENGTH -->
+<!-- (Longer text = brighter background block, shorter = darker) -->
+
+<div style="
+  background: #111; 
+  padding: 12px; 
+  border-radius: 8px; 
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px #ffffff22;
+">
+🔥 **Random Style Skills:**  
+• Blur effects  
+• Dark UI layouts  
+• Neon borders  
+• Fluid animations  
+• Gradient backgrounds  
+• Glassmorphism  
+• Minimalistic components  
+• Card-based layouts  
+</div>
+
+<div style="
+  background: #191919; 
+  padding: 12px; 
+  border-radius: 8px; 
+  box-shadow: 0 0 10px #ffffff33;
+">
+✨ **Technologies:**  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- Tailwind CSS  
+- Flexbox  
+- Grid  
+</div>
+
+</div>
+
+</details>
+
+
