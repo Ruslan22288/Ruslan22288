@@ -18,32 +18,22 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
-# 💻 Tech Stack (as a horizontal "floor")
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=for-the-badge)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)]()
-
----
-
-# 🧩 Expandable Skills (like a vertical "wall")
+# 🧩 My Skills (click to expand)
 
 ### 🐍 Python
 <details>
-  <summary><strong>Show Python skills</strong></summary>
+  <summary><strong>Python</strong></summary>
 
 ### Frameworks:
-- Django (ORM, Admin, Middleware, Templates)
-- FastAPI (async, routers, dependencies, OpenAPI)
-- Flask (routing, Jinja2, lightweight apps)
+- Django  
+- FastAPI  
+- Flask  
 
 ### Other:
-- Virtual environments  
-- Async programming  
 - API development  
+- Async programming  
 - Automation scripts  
+- Virtual environments  
 
 </details>
 
@@ -51,17 +41,16 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ### ⚙️ JavaScript
 <details>
-  <summary><strong>Show JavaScript skills</strong></summary>
+  <summary><strong>JavaScript</strong></summary>
 
 ### Core:
 - DOM manipulation  
-- Fetch API  
 - Async / Await  
-- ES6+ features  
+- ES6+  
 
-### Frameworks (learning stage):
-- React (basics)
-- Vue (planned)
+### Frameworks:
+- React (basic)  
+- Vue (planned)  
 
 </details>
 
@@ -69,34 +58,35 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ### 🛢 Databases
 <details>
-  <summary><strong>Show Database skills</strong></summary>
+  <summary><strong>Databases</strong></summary>
 
 - PostgreSQL  
 - SQLite  
 - Django ORM  
-- SQL basics (JOIN, filtering, ordering)
+- SQL basics  
 
 </details>
 
 ---
 
-### 🎨 Style Board
+# 🎨 **STYLE BOARD**
+### (highlighted with its own section)
 <details>
-  <summary><strong>Show Style / Frontend skills</strong></summary>
+  <summary><strong>Open Style Board</strong></summary>
 
-### Styling tools:
+### Styling:
 - HTML5  
 - CSS3  
-- Bootstrap  
 - Tailwind CSS  
-- Responsive UI  
-- Flexbox & Grid  
+- Bootstrap  
+- UI layout (Flexbox / Grid)  
+- Responsive design  
 
 </details>
 
 ---
 
-# ⚡ Random Dev Quote (vertical like a wall)
+# ⚡ Random Dev Quote
 
 > “Just because you’ve implemented something doesn’t mean you understand it.”  
 > — Brian Cantwell Smith
