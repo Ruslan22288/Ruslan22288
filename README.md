@@ -18,7 +18,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ---
 
- 🧩 My Skills (click to expand)
+# 🧩 My Skills (click to expand)
 
 ### 🐍 Python
 <details>
@@ -44,13 +44,10 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
   <summary><strong>JavaScript</strong></summary>
 
 ### Core:
-- DOM manipulation  
-- Async / Await  
-- ES6+  
+- None 
 
 ### Frameworks:
-- React (basic)  
-- Vue (planned)  
+- None
 
 </details>
 
@@ -62,8 +59,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 - PostgreSQL  
 - SQLite  
-- Django ORM  
-- SQL basics  
+- Django ORM   
 
 </details>
 
@@ -76,11 +72,8 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 ### Styling:
 - HTML5  
-- CSS3  
-- Tailwind CSS  
+- CSS
 - Bootstrap  
-- UI layout (Flexbox / Grid)  
-- Responsive design  
 
 </details>
 
