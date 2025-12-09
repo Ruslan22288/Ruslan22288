@@ -81,4 +81,4 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 # 🖤 GitHub Stats & Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruslan22288)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruslan22288&theme=dark)
