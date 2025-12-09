@@ -59,7 +59,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 
 </details>
 
----
+--
 
 ### Styles
 <details>
@@ -78,7 +78,3 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
-
-# 🖤 GitHub Stats & Streak
-
-![GitHubStreak](https://github-readme-streak-stats.herokuapp.com/?user=Ruslan22288&theme=dark)
