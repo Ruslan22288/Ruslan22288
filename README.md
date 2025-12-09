@@ -65,7 +65,7 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 <details>
   <summary><strong>Style</strong></summary>
 
-- HTML5  
+- HTML  
 - CSS
 - Bootstrap  
 
@@ -80,4 +80,4 @@ I'm a 15-year-old web developer who loves building mini-projects and working wit
 ---
 
 # 🖤 GitHub Stats & Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ruslan22288&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ruslan22288&theme=dark)
